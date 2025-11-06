@@ -1,6 +1,6 @@
 # The aim is to create an ML model that predicts which phone leads are likely to accept a long-term deposit, so that only those leads are called.
 
-Link to notebook: https://github.com/martin7x7/Assignment17_1/blob/main/prompt_III.ipynb
+Link to the notebook: https://github.com/martin7x7/Assignment17_1/blob/main/prompt_III.ipynb
 
 ## Files in repository
 1)	prompt_III.ipynb – contains requested code and answers to all questions
